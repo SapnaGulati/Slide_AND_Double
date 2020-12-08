@@ -1,8 +1,8 @@
-# Slide_Nand_Double
-Slide nand double is a game project which is developed in java language.
+# Slide_AND_Double
+Slide AND double is a game project which is developed in java language.
 
 # Overview:
-Slide_Nand_Double is  game similar like 2048 game. In this when we click on the arrow keys, if two numbers will be same then they will be merge into double of that number.
+Slide_AND_Double is  game similar like 2048 game. In this when we click on the arrow keys, if two numbers will be same then they will be merge into double of that number.
 It will go upto 4096 i.e. 2^12. 
 
 # Abstract of the game:
